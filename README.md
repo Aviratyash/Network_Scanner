@@ -16,7 +16,7 @@ The network scanner utilizes various network scanning techniques, such as ICMP p
 
 To use the network scanner, follow these steps:
 
-1. Clone the repository or download the `network_scanner.py` script.
+1. Clone the repository or download the `network_scanner.pyw` script.
 2. Run the script by executing the following command in your terminal:
 
 ```bash
